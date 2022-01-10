@@ -1,0 +1,3 @@
+@echo off
+echo 已经进入call.bat中...
+type a.txt
